@@ -1,0 +1,16 @@
+* {
+    font-family: 'Fredoka One', cursive;
+    margin:0;
+    box-sizing: border-box;
+}
+header{
+    text-align: center;
+    margin-top:7em;}
+h1 {
+    color:rgb(229, 49, 112) ;
+}
+main > div {margin: auto;
+            text-align: center;
+            margin-top: 5em;
+            }
+div > p {font-family: 'Fredoka', sans-serif;}
